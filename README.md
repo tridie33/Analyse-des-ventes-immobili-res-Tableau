@@ -50,9 +50,8 @@ Pour le **24 juillet 2014**, le prix moyen des maisons vendues était de **430 0
 - Le prix médian semble être autour de **500 000 à 600 000 $**.
 - Les maisons avec **3 chambres** et **2 salles de bain** sont les plus courantes.
 
-## 🖼️ Aperçu du tableau de bord
+##  Aperçu du tableau de bord
 
 ![Aperçu du Dashboard](Capture%20d'écran%202025-05-24%20003717.png)
 
-## 📂 Organisation du projet
 
